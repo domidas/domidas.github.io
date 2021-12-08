@@ -6,15 +6,6 @@ permalink: /about/
   <HEAD>
     
     <style>
-        a {
-      color: SkyBlue;
-      font-size: 140%;
-      text-decoration: underline;
-      text-transform: capitalize;
-    }
-    </style>
-    
-    <style>
         html {
         display: table;
         margin: auto;
@@ -37,7 +28,19 @@ permalink: /about/
     
     <h1 style="color:white;font-size:400%;">ΛΛΛ</h1>
     
-    <i style="color:white;font-size:170%;">What is the Best Style of Pizza and Why is it Thin Crust</i>
+    <i style="color:white;font-size:140%;">This website currently has no purpose</i>
+    
+    <br> <br>
+    
+    <i style="color:white;font-size:140%;">Ideas?</i>
+    
+    <br>
+    
+    <address>
+      emirus@emirus.xyz <br>
+      interested in more? <br>
+      github.com/domidas
+    </address>
     
     <br> <br>
     
