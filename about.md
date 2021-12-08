@@ -41,12 +41,12 @@ permalink: /about/
     
     <i style="color:white;font-size:140%;">Ideas?</i>
     
-    <br> <br> <br>
+    <br> <br>
     
     <address>
-      emirus@emirus.xyz <br>
+      email me at: emirus@emirus.xyz <br> <br>
       interested in more? <br>
-      github.com/domidas
+      <a href="github.com/domidas">Github</a>
     </address>
     
   </BODY>
