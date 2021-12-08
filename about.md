@@ -6,12 +6,19 @@ permalink: /about/
   <HEAD>
     
     <style>
-        html {
+      address {
+      color:white;
+    </style>
+    
+    <style>
+      html {
         display: table;
         margin: auto;
       }
-
-    body {
+      address {
+        color:white;
+      }
+      body {
         display: table-cell;
         vertical-align: middle;
       }
@@ -41,10 +48,6 @@ permalink: /about/
       interested in more? <br>
       github.com/domidas
     </address>
-    
-    <br> <br>
-    
-    <a href="https://emirus.xyz">Take Me Home, Country Roads</a>
     
   </BODY>
 </HTML>
