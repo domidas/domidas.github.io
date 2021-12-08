@@ -8,7 +8,7 @@ permalink: /about/
     <style>
         a {
       color: SkyBlue;
-      font-size: 200%;
+      font-size: 140%;
       text-decoration: underline;
       text-transform: capitalize;
     }
@@ -37,7 +37,7 @@ permalink: /about/
     
     <h1 style="color:white;font-size:400%;">ΛΛΛ</h1>
     
-    <i style="color:white;font-size:200%;">What is the Best Style of Pizza and Why is it Thin Crust</i>
+    <i style="color:white;font-size:170%;">What is the Best Style of Pizza and Why is it Thin Crust</i>
     
     <br> <br>
     
