@@ -41,7 +41,7 @@ permalink: /about/
     
     <i style="color:white;font-size:140%;">Ideas?</i>
     
-    <br>
+    <br> <br> <br>
     
     <address>
       emirus@emirus.xyz <br>
