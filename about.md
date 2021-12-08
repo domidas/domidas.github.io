@@ -46,7 +46,7 @@ permalink: /about/
     <address>
       email me at: emirus@emirus.xyz <br> <br>
       interested in more? <br>
-      <a style="font-size:small;" href="https://github.com/domidas">Github</a>
+      <a style="font-size:medium;" href="https://github.com/domidas">Github</a>
     </address>
     
   </BODY>
