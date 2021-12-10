@@ -21,7 +21,7 @@ permalink: /about/
   </HEAD>
   <BODY>
     
-    <h1 style="color:white;font-size:400%;">ΛΛΛ</h1>
+    <h1 style="color:white;font-size:400%;">ƎD</h1>
     
     <i style="color:white;font-size:140%;">This website currently has no purpose</i>
     
