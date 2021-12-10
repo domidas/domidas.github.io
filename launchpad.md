@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <HEAD>
 <BODY>
-<h1>Here you will find forum weapons, sometimes even warheads, hence the page name.</h1>
+<h2>No one needs OneDrive.</h2>
 </BODY>
 </HEAD>
