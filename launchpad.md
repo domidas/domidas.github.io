@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <HEAD>
   <title>FWMDs</title>
   <script>
@@ -10,7 +10,6 @@
           {
             document.getElementById("msg").value = "test";
              //location = "error.html"
-<BODY>
   <i style="color:white;">No one needs OneDrive.</i>
 </BODY>
 </HEAD>
