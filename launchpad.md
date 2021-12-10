@@ -1,7 +1,5 @@
-<!DOCTYPE HTML>
 <HTML>
   <HEAD>
-    <title>FWMDs</title>
     <script>
     var password = prompt("Please Enter Your Password");
           if (password=="test") {
