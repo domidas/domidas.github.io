@@ -6,7 +6,7 @@
     
     <br> <br> <br>
     
-    <a href="/test.txt">test</a>
+    <a href="test.txt">test</a>
     
     <div class="tenor-gif-embed" data-postid="7463412" data-share-method="host" data-aspect-ratio="1.0" data-width="100%">
       
