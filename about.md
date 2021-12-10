@@ -1,4 +1,4 @@
-layout: page
+layout: custom
 title: "about"
 permalink: /about/
 
