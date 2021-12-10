@@ -7,21 +7,9 @@ permalink: /about/
     
     <style>
       address {
-      color:white;
-    </style>
-    
-    <style>
-      html {
-        display: table;
-        margin: auto;
-      }
-      address {
         color:white;
       }
-      body {
-        display: table-cell;
-        vertical-align: middle;
-      }
+     
     </style>
     
     <style type="text/css">
@@ -31,7 +19,7 @@ permalink: /about/
     </style>
     
   </HEAD>
-  <BODY style="background-color:black;text-align:center">
+  <BODY>
     
     <h1 style="color:white;font-size:400%;">ΛΛΛ</h1>
     
