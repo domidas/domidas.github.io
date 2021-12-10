@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <HEAD>
 <BODY>
-<i>No one needs OneDrive.</i>
+<i style="color:white;">No one needs OneDrive.</i>
 </BODY>
 </HEAD>
