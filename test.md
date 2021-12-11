@@ -5,7 +5,7 @@ layout: none
 
     <h1>This is a test page for deployment simulation; nothing exciting here.</h1>
     
-    <p>Also my html is spaghetti and the layouts are a trainwreck lmao</p>
+    <p style="color:white;">Also my html is spaghetti and the layouts are a trainwreck lmao</p>
     
     <br> <br> <br>
     
