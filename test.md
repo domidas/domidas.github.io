@@ -1,4 +1,4 @@
-layout: default
+layout: none
 <!--<!DOCTYPE HTML>
 <HTML>
   <BODY>
