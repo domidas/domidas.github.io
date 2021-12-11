@@ -15,6 +15,10 @@ layout: none
     
     <a href="/random/norge.mp3">Eyes Closed</a>
     
+    <br> <br> <br>
+    
+    <a href="/random/kst.mp3">MIDI</a>
+    
     <div class="tenor-gif-embed" data-postid="7463412" data-share-method="host" data-aspect-ratio="1.0" data-width="100%">
       
       <a href="https://tenor.com/view/peter-parker-dancing-gif-7463412">Peter Parker Dancing GIF</a>
