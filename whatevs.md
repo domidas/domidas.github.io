@@ -3,13 +3,13 @@ layout: none
 <HTML>
   <BODY>
 
-    <h1>This is a test page for deployment simulation; nothing exciting here.</h1>
+    <h1>Who needs the cloud when you have this?</h1>
     
     <p style="color:white;">Also my html is spaghetti and the layouts are a trainwreck lmao</p>
     
     <br> <br> <br>
     
-    <a href="pepe.jpg">test</a>
+    <a href="/random/schleap.jpg">meme</a>
     
     <br> <br> <br>
     
