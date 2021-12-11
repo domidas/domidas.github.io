@@ -13,7 +13,7 @@ layout: none
     
     <br> <br> <br>
     
-    <a href="Øynene Lukket.mp3">Eyes Closed</a>
+    <a href="/random/Øynene Lukket.mp3">Eyes Closed</a>
     
     <div class="tenor-gif-embed" data-postid="7463412" data-share-method="host" data-aspect-ratio="1.0" data-width="100%">
       
