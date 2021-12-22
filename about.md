@@ -23,7 +23,7 @@ permalink: /about/
     
     <h1 style="color:white;font-size:400%;">ƎD</h1>
     
-    <i style="color:white;font-size:140%;">This website currently has no purpose</i>
+    <i style="color:white;font-size:140%;">This is a singular project</i>
     
     <br> <br>
     
@@ -32,7 +32,10 @@ permalink: /about/
     <br> <br>
     
     <address>
-      email me at: emirus@emirus.xyz <br> <br>
+      email me at: emirus@emirus.xyz
+      <br> <br>
+      <a href="vsco.co/emirus">VSCO</a>
+      <br> <br>
       interested in more? <br>
       <a style="font-size:medium;" href="https://github.com/domidas">Github</a>
     </address>
