@@ -33,7 +33,7 @@ permalink: /about/
     
     <address>
       email me at: emirus@emirus.xyz
-      <br> <br>
+      <br>
       <a style="font-size:medium;" href="vsco.co/emirus">VSCO</a>
       <br> <br>
       interested in more? <br>
