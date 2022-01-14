@@ -33,8 +33,6 @@ permalink: /about/
     
     <address>
       email me at: emirus@emirus.xyz
-      <br>
-      <a style="font-size:medium;" href="https://www.vsco.co/emirus">VSCO</a>
       <br> <br>
       interested in more? <br>
       <a style="font-size:medium;" href="https://github.com/domidas">Github</a>
