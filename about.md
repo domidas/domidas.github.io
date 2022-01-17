@@ -1,6 +1,4 @@
 ---
-title: "about"
-permalink: /about/
 ---
 
 <HTML>
