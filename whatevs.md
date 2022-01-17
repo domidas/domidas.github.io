@@ -1,11 +1,12 @@
-layout: none
+---
+---
 <!DOCTYPE HTML>
 <HTML>
   <BODY>
 
-    <h1>Who needs the cloud when you have this?</h1>
+    <h1>This page is meant to test the limits of Github's built-in file hosting service.</h1>
     
-    <p style="color:white;">Also my html is spaghetti and the layouts are a trainwreck lmao</p>
+    <p style="color:white;">Let's hope no one cares :|</p>
     
     <br> <br> <br>
     
