@@ -1,6 +1,7 @@
-layout: custom
+---
 title: "about"
 permalink: /about/
+---
 
 <HTML>
   <HEAD>
