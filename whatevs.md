@@ -10,6 +10,10 @@
     
     <br> <br> <br>
     
+    <a href="/random/BOOM.mp3">B O O M</a>
+    
+    <br> <br> <br>
+    
     <a href="/random/schleap.jpg">meme</a>
     
     <br> <br> <br>
