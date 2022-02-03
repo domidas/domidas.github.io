@@ -8,7 +8,7 @@
     
     <br> <br> <br>
     
-    <a href="/random/kst.mp3">placeholder</a>
+    <a href="/random/apple.jpg">placeholder</a>
     
     
     
