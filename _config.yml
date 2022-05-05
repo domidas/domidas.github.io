@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  domidas
 
 # Build settings
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
