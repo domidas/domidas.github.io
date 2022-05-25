@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Emirus.xyz!"
+title:  "Welcome to emirus.xyz!"
 date:   2022-05-05 01:00:00 -0400
 categories: jekyll update
 ---
