@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Interesting AI Implementations"
-date:   2022-05-05 01:00:00 -0400
+date:   2022-05-24 01:00:00 -0400
 categories: jekyll update
 ---
 Hello again! I've known about GPTv3 for a while now, but I wasn't aware of how easy it was to use it - transformers, and AI in general, is something I'm quite ignorant of.
