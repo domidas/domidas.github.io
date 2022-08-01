@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watch List for Fall 2022"
-date:   2022-05-05 01:00:00 -0400
+date:   2022-07-31 01:00:00 -0400
 categories: jekyll update
 ---
 
