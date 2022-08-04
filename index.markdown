@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<a href="/media/music-list.html">Vinyl Collection</a>
